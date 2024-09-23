@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "/9e5yGHzh5s/WceISh6642HeLURAgBNUBE4s0UhstbA=",
+  "Source": "InstagramMVC",
+  "BasePath": "_content/InstagramMVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "InstagramMVC\\wwwroot",
+      "Source": "InstagramMVC",
+      "ContentRoot": "C:\\Users\\Andyt\\InstagramMVC\\InstagramMVC\\wwwroot\\",
+      "BasePath": "_content/InstagramMVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
