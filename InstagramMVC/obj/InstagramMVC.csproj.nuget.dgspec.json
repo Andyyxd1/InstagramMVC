@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andyt\\InstagramMVC\\InstagramMVC\\InstagramMVC.csproj": {}
+    "C:\\Users\\Andyt\\OneDrive\\Documents\\GitHub\\InstagramMVC\\InstagramMVC\\InstagramMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andyt\\InstagramMVC\\InstagramMVC\\InstagramMVC.csproj": {
+    "C:\\Users\\Andyt\\OneDrive\\Documents\\GitHub\\InstagramMVC\\InstagramMVC\\InstagramMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andyt\\InstagramMVC\\InstagramMVC\\InstagramMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Andyt\\OneDrive\\Documents\\GitHub\\InstagramMVC\\InstagramMVC\\InstagramMVC.csproj",
         "projectName": "InstagramMVC",
-        "projectPath": "C:\\Users\\Andyt\\InstagramMVC\\InstagramMVC\\InstagramMVC.csproj",
+        "projectPath": "C:\\Users\\Andyt\\OneDrive\\Documents\\GitHub\\InstagramMVC\\InstagramMVC\\InstagramMVC.csproj",
         "packagesPath": "C:\\Users\\Andyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andyt\\InstagramMVC\\InstagramMVC\\obj\\",
+        "outputPath": "C:\\Users\\Andyt\\OneDrive\\Documents\\GitHub\\InstagramMVC\\InstagramMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andyt\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
