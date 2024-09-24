@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/9e5yGHzh5s/WceISh6642HeLURAgBNUBE4s0UhstbA=",
+  "Hash": "LYTliILN/ah8MRU+T/QtZN1KHA0AcXOW8k+8jf95FqU=",
   "Source": "InstagramMVC",
   "BasePath": "_content/InstagramMVC",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "InstagramMVC\\wwwroot",
       "Source": "InstagramMVC",
-      "ContentRoot": "C:\\Users\\Andyt\\InstagramMVC\\InstagramMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andyt\\OneDrive\\Documents\\GitHub\\InstagramMVC\\InstagramMVC\\wwwroot\\",
       "BasePath": "_content/InstagramMVC",
       "Pattern": "**"
     }

@@ -9,6 +9,6 @@ public class Note
     public string content {get; set;}
 
     public string UserId {get; set;}
-    public string User User {get; set;}
+    public User User {get; set;}
     
 }
