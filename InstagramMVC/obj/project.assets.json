@@ -1186,19 +1186,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Andyt\\.nuget\\packages\\": {}
+    "C:\\Users\\mbmik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andyt\\OneDrive\\Documents\\GitHub\\InstagramMVC\\InstagramMVC\\InstagramMVC.csproj",
+      "projectUniqueName": "C:\\Users\\mbmik\\OneDrive\\Dokumenter\\GitHub\\InstagramMVC\\InstagramMVC\\InstagramMVC.csproj",
       "projectName": "InstagramMVC",
-      "projectPath": "C:\\Users\\Andyt\\OneDrive\\Documents\\GitHub\\InstagramMVC\\InstagramMVC\\InstagramMVC.csproj",
-      "packagesPath": "C:\\Users\\Andyt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andyt\\OneDrive\\Documents\\GitHub\\InstagramMVC\\InstagramMVC\\obj\\",
+      "projectPath": "C:\\Users\\mbmik\\OneDrive\\Dokumenter\\GitHub\\InstagramMVC\\InstagramMVC\\InstagramMVC.csproj",
+      "packagesPath": "C:\\Users\\mbmik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mbmik\\OneDrive\\Dokumenter\\GitHub\\InstagramMVC\\InstagramMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Andyt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mbmik\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
